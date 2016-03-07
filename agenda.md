@@ -2,16 +2,21 @@
 
 # Session Agenda
 
+#### Planned:
+
+- 12 April 2016
+
+    T.B.D
+
+- 10 May 2016
+
+    T.B.D
+
 #### Past:
 
 - WebPack
 - Docker
 - Angular 2.0
-
-#### Planned:
-
-- 12 April 2016: T.B.D
-- 12 April 2016: T.B.D
 
 #### Unplanned (ideas):
 
