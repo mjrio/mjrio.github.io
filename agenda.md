@@ -2,9 +2,9 @@
 
 # Session Agenda
 
-Last update: 24 May 2016
+Last update: 07 June 2016
 
-#### June 2016 (exact date to be defined)
+#### 07 July 2016
 
 Workshop Cordova, Ionic and Firebase. Here we are going to build a mobile chat app. At the end of the session we can chat with eachother with our mobile device.
 
@@ -15,7 +15,7 @@ More info:
 - [http://ionicframework.com/](http://ionicframework.com/)
 - [https://www.firebase.com/](https://www.firebase.com/)
 
-#### Juli 2016
+#### Aug/Sept 2016
 
 Redux: Predictable state container for JavaScript apps. Look at it as command/query separation but for client applications. We start with react but also show you how to use Redux in your Angular appplication.
 
